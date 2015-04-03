@@ -1,0 +1,16 @@
+AB
+BABABA
+5
+A The mission of Truman State University 
+B is to offer an exemplary undergraduate 
+B education to well-prepared students, 
+A grounded in the liberal arts and sciences, 
+B in the context of a public institution 
+A of higher education. To that end, the 
+B University offers affordable undergraduate 
+A studies in the traditional arts and 
+A sciences as well as selected pre-professional,
+A professional, and master's level programs
+B that grow naturally out of the philosophy,
+B values, content, and desired outcomes
+A of a liberal arts education.
